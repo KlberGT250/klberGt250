@@ -1,5 +1,4 @@
- HTML
-Copiar
+
 
 <!DOCTYPE html>
 <html lang="pt-BR">
