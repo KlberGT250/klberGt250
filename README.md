@@ -16,4 +16,14 @@
 
 </div>
 
-
+🛠 Linguagens & Frameworks
+<div align="center">
+Linguagens
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,c,js&theme=dark&perline=5" />
+<br/>
+Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
+<br/>
+Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark&perline=5" />
+</div>
